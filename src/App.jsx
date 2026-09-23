@@ -990,7 +990,7 @@ function App() {
     playsInline
   >
     <source
-      src="/videos/hero.mp4" type="video/mp4"/>
+      src="/Videos/hero.mp4" type="video/mp4"/>
   </video>
 
   <div className="hero-overlay" />
